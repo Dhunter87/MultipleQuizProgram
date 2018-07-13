@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{41AC64BE-4304-433A-8080-0886DBA4527D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quiz1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="4" Column="1" />
+      <File FileName="Quiz1.cs" Line="93" Column="1" />
+      <File FileName="Quiz2.cs" Line="4" Column="1" />
+      <File FileName="Quiz3.cs" Line="4" Column="1" />
+      <File FileName="Quiz4.cs" Line="4" Column="1" />
+      <File FileName="Quiz5.cs" Line="4" Column="1" />
+      <File FileName="Quiz6.cs" Line="4" Column="1" />
+      <File FileName="Quiz7.cs" Line="4" Column="1" />
+      <File FileName="Quiz8.cs" Line="4" Column="1" />
+      <File FileName="Quiz9.cs" Line="4" Column="1" />
+      <File FileName="Quiz10.cs" Line="62" Column="13" />
+      <File FileName="NewProfile.cs" Line="2" Column="50" />
+      <File FileName="ProgramLogin.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SelfTrainingProject.MulitpleQuizProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
