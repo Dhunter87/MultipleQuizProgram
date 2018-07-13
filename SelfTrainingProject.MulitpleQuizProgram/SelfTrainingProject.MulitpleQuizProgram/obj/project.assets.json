@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielhunter/Projects/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram.csproj",
+      "projectUniqueName": "/Users/danielhunter/Documents/GitHub/MultipleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram.csproj",
       "projectName": "SelfTrainingProject.MulitpleQuizProgram",
-      "projectPath": "/Users/danielhunter/Projects/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram.csproj",
+      "projectPath": "/Users/danielhunter/Documents/GitHub/MultipleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram.csproj",
       "packagesPath": "/Users/danielhunter/.nuget/packages/",
-      "outputPath": "/Users/danielhunter/Projects/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/obj",
+      "outputPath": "/Users/danielhunter/Documents/GitHub/MultipleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/SelfTrainingProject.MulitpleQuizProgram/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

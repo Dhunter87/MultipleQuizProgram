@@ -12,8 +12,8 @@ namespace SelfTrainingProject.MulitpleQuizProgram
         private string[] userAnswer = new string[21];
         private string[] QuizQuestion = new string[]
         {
-            "1. Into which sea does the Nile flow?",
-            "2. Three continents lie on the tropic of Capricorn - South America, Africa and which other continent?",
+            "1. Into which sea does the Nile flow? ",
+            "2. Three continents lie on the tropic of Capricorn - South America, Africa and which other continent? ",
             "3. In American currency, 10 cents make a what?",
             "4. Africaans was developed from which european language?",
             "5. An Oranique is a cross between a tangerine and what other fruit?",
